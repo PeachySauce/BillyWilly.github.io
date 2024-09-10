@@ -1,3 +1,4 @@
 {
+  "Ignore": true,
   "Code": "https://raw.githubusercontent.com/PeachySauce/BillyWilly.github.io/main/files/code.lua"
 }
