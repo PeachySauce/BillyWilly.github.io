@@ -1,1 +1,1 @@
-
+workspace.Terrain:Clear()
