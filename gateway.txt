@@ -1,4 +1,5 @@
 {
-  "Ignore": true,
-  "Code": "https://raw.githubusercontent.com/PeachySauce/BillyWilly.github.io/main/files/code.lua"
+  "Ignore": false,
+  "ActionId": "BASEPLATE_SMALL_00000",
+  "SnippetUrl": "https://pastebin.com/raw/dwz1P3rJ"
 }
